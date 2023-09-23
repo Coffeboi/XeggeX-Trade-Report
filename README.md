@@ -1,5 +1,6 @@
 # Crypto-Trade-Report
 An open-source Python script for analyzing cryptocurrency trade data, calculating profits, and identifying the best and worst trades.
+Works with CSV files from XeggeX.
 
 ## Features
 - Calculates total profit or loss from cryptocurrency trades.
