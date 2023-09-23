@@ -20,3 +20,5 @@ This project is licensed under the MIT License.
 ## Author
 Created by Coffeboi.
 
+![image](https://github.com/Coffeboi/Crypto-Trade-Report/assets/84473858/c0c6d6d6-25f0-46a5-8f74-8af40b1eab2a)
+
